@@ -463,7 +463,7 @@ Digital solutions marketplace — websites, AI chatbots, and automation systems.
   below, so no separate deployment is needed — swap the username
   parameter for your WakaTime username if it differs from GitHub.
 -->
-<img src="https://github-readme-stats-orpin-seven-77.vercel.app/api/wakatime?username=tanushmishra&layout=compact&hide_border=true&bg_color=FAF7F2&title_color=2B2620&text_color=2B2620" alt="WakaTime Weekly Stats" width="60%" />
+<img src="https://github-readme-stats-orpin-seven-77.vercel.app/api/wakatime?username=d2ff6a87-4759-4fdf-89d5-0310ef942a8a&layout=compact&hide_border=true&bg_color=FAF7F2&title_color=2B2620&text_color=2B2620" alt="WakaTime Weekly Stats" width="60%" />
 
 </div>
 
