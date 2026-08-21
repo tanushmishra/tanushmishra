@@ -446,7 +446,7 @@ Digital solutions marketplace — websites, AI chatbots, and automation systems.
   "onedark" is the closest built-in theme to the warm-charcoal
   palette; there's no native beige preset for this widget.
 -->
-<img src="https://github-profile-trophy.vercel.app/?username=tanushmishra&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1&row=1" alt="GitHub Trophies" width="90%" />
+<img src="./assets/trophy.svg" alt="GitHub Trophies" width="90%" />
 
 <br /><br />
 
