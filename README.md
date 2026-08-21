@@ -352,10 +352,17 @@ A modern cricket scoring application developed using **C++** and the STL.
   palette (ivory bg / taupe icons / charcoal text).
   Closest built-in fallback themes if you prefer presets:
   "gruvbox", "vue", or "buefy" — all lean warm/neutral.
+
+  Self-hosted instance: these cards point to a personal Vercel
+  deployment (github-readme-stats-orpin-seven-77.vercel.app)
+  rather than the public github-readme-stats.vercel.app, which
+  is shared by thousands of profiles and frequently rate-limited
+  or unreliable. If this deployment is ever redeployed under a
+  new URL, update both <img> src values below to match.
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=tanushmishra&show_icons=true&hide_border=true&bg_color=FAF7F2&title_color=2B2620&text_color=2B2620&icon_color=8C7B6B&ring_color=A99985" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanushmishra&layout=compact&hide_border=true&bg_color=FAF7F2&title_color=2B2620&text_color=2B2620&langs_count=8" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats-orpin-seven-77.vercel.app/api?username=tanushmishra&show_icons=true&hide_border=true&bg_color=FAF7F2&title_color=2B2620&text_color=2B2620&icon_color=8C7B6B&ring_color=A99985" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-orpin-seven-77.vercel.app/api/top-langs/?username=tanushmishra&layout=compact&hide_border=true&bg_color=FAF7F2&title_color=2B2620&text_color=2B2620&langs_count=8" alt="Top Languages" width="48%" />
 
 <br /><br />
 
