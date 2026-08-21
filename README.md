@@ -1,6 +1,20 @@
 <div align="center">
 
 <!--
+  BOOT SEQUENCE — a fake terminal init log rendered via
+  readme-typing-svg. Monospace, dark terminal palette (charcoal
+  bg, sand text) so it reads as an actual shell, not a banner.
+  Purely decorative — no real system runs this.
+-->
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2200&pause=400&color=DDD0BC&background=2B2620&center=true&vCenter=true&multiline=true&width=560&height=100&lines=%24+whoami;tanushmishra;%24+status+--check;online+%E2%80%94+building" alt="Terminal boot sequence" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<!--
   ============================================================
   BANNER IMAGE — insert your custom banner here.
   Recommended size: 1600×400px (or 1200×300px minimum)
@@ -195,6 +209,19 @@ Digital solutions marketplace — websites, AI chatbots, and automation systems.
 ## Technical Stack
 
 </div>
+
+<div align="center">
+
+<!--
+  PROFICIENCY — assets/skill-bars.svg. Static, hand-set values
+  (self-assessed), not pulled from an API. Update the percentages
+  in the SVG directly as skills develop.
+-->
+<img src="https://raw.githubusercontent.com/tanushmishra/tanushmishra/main/assets/skill-bars.svg" width="80%" alt="Skill proficiency breakdown" />
+
+</div>
+
+<br />
 
 <div align="center">
 
@@ -413,6 +440,16 @@ Digital solutions marketplace — websites, AI chatbots, and automation systems.
 
 <br /><br />
 
+<!--
+  TROPHIES — github-profile-trophy renders earned achievement
+  tiles (commit streaks, stars, PRs, etc.) as they're unlocked.
+  "onedark" is the closest built-in theme to the warm-charcoal
+  palette; there's no native beige preset for this widget.
+-->
+<img src="https://github-profile-trophy.vercel.app/?username=tanushmishra&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1&row=1" alt="GitHub Trophies" width="90%" />
+
+<br /><br />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanushmishra&bg_color=FAF7F2&color=2B2620&line=8C7B6B&point=A99985&area=true&hide_border=true" alt="Activity Graph" width="90%" />
 
 <br /><br />
@@ -532,6 +569,17 @@ Digital solutions marketplace — websites, AI chatbots, and automation systems.
 <br /><br />
 
 <img src="https://img.shields.io/badge/NOIDA%2C%20UTTAR%20PRADESH%2C%20INDIA-DDD0BC?style=for-the-badge&labelColor=2B2620" />
+
+<br /><br />
+
+<!--
+  QR CODE — scannable link to the portfolio, generated on the
+  fly by api.qrserver.com (no account/setup needed). Colors are
+  URL-encoded hex without '#': charcoal foreground on ivory bg.
+-->
+<sub>Scan to visit the portfolio</sub>
+<br />
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://tanush.site&color=2B2620&bgcolor=FAF7F2" alt="QR code to tanush.site" width="120" />
 
 </div>
 
