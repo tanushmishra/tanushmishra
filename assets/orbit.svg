@@ -14,9 +14,9 @@
   <circle cx="300" cy="300" r="220" fill="none" stroke="#DDD0BC" stroke-width="1" stroke-dasharray="2 6" opacity="0.4" />
 
   <!-- center mark -->
-  <circle cx="300" cy="300" r="46" fill="#2B2620" />
-  <text x="300" y="296" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#FAF7F2" font-weight="600">TM</text>
-  <text x="300" y="312" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="8.5" letter-spacing="1.5" fill="#DDD0BC">BUILDER</text>
+  <circle cx="300" cy="300" r="52" fill="#2B2620" />
+  <text x="300" y="295" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="0.5" fill="#FAF7F2" font-weight="600">TANUSH</text>
+  <text x="300" y="312" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="0.5" fill="#FAF7F2" font-weight="600">MISHRA</text>
 
   <!-- ring 1 : inner, fast — core stack -->
   <g>
