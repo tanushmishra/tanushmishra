@@ -56,7 +56,7 @@
      wherever GitHub renders <img> — no JS required.
      ============================================================ -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/tanushmishra/tanushmishra/main/assets/orbit.svg" width="360" alt="Orbiting tech stack" />
+<img src="https://raw.githubusercontent.com/tanushmishra/tanushmishra/main/assets/orbit.svg" width="480" alt="Orbiting tech stack" />
 </div>
 
 <br />
