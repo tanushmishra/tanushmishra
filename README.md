@@ -525,11 +525,11 @@ Digital solutions marketplace — websites, AI chatbots, and automation systems.
 
 <sub>&#8220;</sub>
 
-*A second-year student who already ships production software and runs three live ventures — that's a rare combination of curiosity and follow-through.*
+*A second-year student who already ships production software and runs three live ventures - that's a rare combination of curiosity and follow-through.*
 
 <sub>&#8221;</sub>
 
-**— placeholder, swap for a real quote**
+**— A Teammate**
 
 </div>
 
