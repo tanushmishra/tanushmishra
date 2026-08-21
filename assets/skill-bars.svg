@@ -1,0 +1,47 @@
+<svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barfill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A99985" />
+      <stop offset="100%" stop-color="#8C7B6B" />
+    </linearGradient>
+  </defs>
+
+  <!-- track + bar template repeated per skill -->
+  <!-- row 1 : Python -->
+  <text x="0" y="20" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#2B2620">Python</text>
+  <text x="640" y="20" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#8C7B6B">85%</text>
+  <rect x="0" y="28" width="640" height="8" rx="4" fill="#DDD0BC" opacity="0.5" />
+  <rect x="0" y="28" width="544" height="8" rx="4" fill="url(#barfill)" />
+
+  <!-- row 2 : JavaScript / React -->
+  <text x="0" y="62" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#2B2620">JavaScript &amp; React</text>
+  <text x="640" y="62" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#8C7B6B">80%</text>
+  <rect x="0" y="70" width="640" height="8" rx="4" fill="#DDD0BC" opacity="0.5" />
+  <rect x="0" y="70" width="512" height="8" rx="4" fill="url(#barfill)" />
+
+  <!-- row 3 : C / C++ -->
+  <text x="0" y="104" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#2B2620">C &amp; C++</text>
+  <text x="640" y="104" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#8C7B6B">78%</text>
+  <rect x="0" y="112" width="640" height="8" rx="4" fill="#DDD0BC" opacity="0.5" />
+  <rect x="0" y="112" width="499" height="8" rx="4" fill="url(#barfill)" />
+
+  <!-- row 4 : AI & Machine Learning -->
+  <text x="0" y="146" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#2B2620">AI &amp; Machine Learning</text>
+  <text x="640" y="146" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#8C7B6B">72%</text>
+  <rect x="0" y="154" width="640" height="8" rx="4" fill="#DDD0BC" opacity="0.5" />
+  <rect x="0" y="154" width="461" height="8" rx="4" fill="url(#barfill)" />
+
+  <!-- row 5 : Backend & SQL -->
+  <text x="0" y="188" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#2B2620">Backend &amp; SQL</text>
+  <text x="640" y="188" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#8C7B6B">75%</text>
+  <rect x="0" y="196" width="640" height="8" rx="4" fill="#DDD0BC" opacity="0.5" />
+  <rect x="0" y="196" width="480" height="8" rx="4" fill="url(#barfill)" />
+
+  <!-- row 6 : Design (Adobe Suite) -->
+  <text x="0" y="230" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#2B2620">Design (Adobe Suite)</text>
+  <text x="640" y="230" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="12" fill="#8C7B6B">65%</text>
+  <rect x="0" y="238" width="640" height="8" rx="4" fill="#DDD0BC" opacity="0.5" />
+  <rect x="0" y="238" width="416" height="8" rx="4" fill="url(#barfill)" />
+
+  <text x="0" y="278" font-family="Helvetica, Arial, sans-serif" font-size="10" fill="#A99985" font-style="italic">Self-assessed proficiency — updated periodically, not auto-generated.</text>
+</svg>
