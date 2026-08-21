@@ -126,7 +126,7 @@ I design and ship AI-powered products, modern web platforms, and scalable system
 
 ## About Me
 
-- 🎓 First-year **Computer Science Engineering** student at **JIIT Noida**
+- 🎓 Second-year **Computer Science Engineering** student at **JIIT Noida**
 - 🧠 Deeply invested in **AI, software engineering, startups, and digital products**
 - 🛠️ I enjoy taking products from **concept → deployment**, not just writing code
 - ⚙️ Focused on **automation, intelligent systems, and scalable software architecture**
@@ -525,7 +525,7 @@ Digital solutions marketplace — websites, AI chatbots, and automation systems.
 
 <sub>&#8220;</sub>
 
-*A first-year student who already ships production software and runs three live ventures — that's a rare combination of curiosity and follow-through.*
+*A second-year student who already ships production software and runs three live ventures — that's a rare combination of curiosity and follow-through.*
 
 <sub>&#8221;</sub>
 
