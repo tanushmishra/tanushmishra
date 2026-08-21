@@ -48,6 +48,19 @@
 
 <br />
 
+<!-- ============================================================
+     SIGNATURE ELEMENT — animated orbit (assets/orbit.svg)
+     Three rings rotate at different speeds: inner = core stack,
+     mid = AI layer, outer = product/startup layer. Pure SMIL
+     animation inside a static SVG file, so it animates natively
+     wherever GitHub renders <img> — no JS required.
+     ============================================================ -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/tanushmishra/tanushmishra/main/assets/orbit.svg" width="360" alt="Orbiting tech stack" />
+</div>
+
+<br />
+
 ## Building products at the intersection of AI, software, and design.
 
 I design and ship AI-powered products, modern web platforms, and scalable systems — from first line of code to production deployment. My work sits at the intersection of automation, intelligent systems, and thoughtful product design.
@@ -155,6 +168,20 @@ Digital solutions marketplace — websites, AI chatbots, and automation systems.
 </tr>
 </table>
 
+<div align="center">
+
+<!--
+  LIVE STATUS — shields.io "website" badges ping each URL at
+  render time, so these reflect real uptime, not a static label.
+-->
+<sub>Live status</sub>
+<br />
+<img src="https://img.shields.io/website?url=https%3A%2F%2Ftanush.site&label=tanush.site&up_color=8C7B6B&down_color=2B2620&up_message=online&down_message=down&style=flat-square" alt="tanush.site status" />
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fmmproductions.in&label=mmproductions.in&up_color=8C7B6B&down_color=2B2620&up_message=online&down_message=down&style=flat-square" alt="mmproductions.in status" />
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fkaer.site&label=kaer.site&up_color=8C7B6B&down_color=2B2620&up_message=online&down_message=down&style=flat-square" alt="kaer.site status" />
+
+</div>
+
 <br />
 
 <div align="center">
@@ -261,16 +288,24 @@ Digital solutions marketplace — websites, AI chatbots, and automation systems.
 <tr>
 <td width="50%" valign="top">
 
-### 📦 Inventory Management System
-A scalable inventory management platform built in **C**, featuring authentication, CRUD operations, CSV persistence, sorting, searching, reporting, and efficient data handling.
+```
+● ● ●  inventory-management/
+```
+
+**📦 Inventory Management System**
+<br />A scalable inventory management platform built in **C**, featuring authentication, CRUD operations, CSV persistence, sorting, searching, reporting, and efficient data handling.
 
 `C` `CSV` `CLI Architecture`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌾 Edge-AI Smart Agriculture Copilot
-An AI-powered agriculture platform combining computer vision, hyper-local intelligence, ROI optimization, and offline capabilities to improve farming decisions.
+```
+● ● ●  edge-ai-agriculture/
+```
+
+**🌾 Edge-AI Smart Agriculture Copilot**
+<br />An AI-powered agriculture platform combining computer vision, hyper-local intelligence, ROI optimization, and offline capabilities to improve farming decisions.
 
 `Computer Vision` `Edge AI` `TensorFlow Lite`
 
@@ -279,16 +314,24 @@ An AI-powered agriculture platform combining computer vision, hyper-local intell
 <tr>
 <td width="50%" valign="top">
 
-### 💬 Hezkue AI Assistant
-A business-focused AI assistant integrating retrieval systems, automation workflows, and intelligent customer interactions.
+```
+● ● ●  hezkue-assistant/
+```
+
+**💬 Hezkue AI Assistant**
+<br />A business-focused AI assistant integrating retrieval systems, automation workflows, and intelligent customer interactions.
 
 `RAG` `Automation` `AI Assistant`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏏 Cricket Scorecard System
-A modern cricket scoring application developed using **C++** and the STL.
+```
+● ● ●  cricket-scorecard/
+```
+
+**🏏 Cricket Scorecard System**
+<br />A modern cricket scoring application developed using **C++** and the STL.
 
 `C++` `STL` `Systems Design`
 
@@ -372,6 +415,19 @@ A modern cricket scoring application developed using **C++** and the STL.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanushmishra&bg_color=FAF7F2&color=2B2620&line=8C7B6B&point=A99985&area=true&hide_border=true" alt="Activity Graph" width="90%" />
 
+<br /><br />
+
+<!--
+  WAKATIME — weekly coding-hours breakdown by language.
+  Requires: a WakaTime account (wakatime.com) with the editor
+  plugin installed, and BOTH "Display code time publicly" and
+  "Display languages, editors, os, categories publicly" toggled
+  on in WakaTime settings. Reuses the self-hosted stats instance
+  below, so no separate deployment is needed — swap the username
+  parameter for your WakaTime username if it differs from GitHub.
+-->
+<img src="https://github-readme-stats-orpin-seven-77.vercel.app/api/wakatime?username=tanushmishra&layout=compact&hide_border=true&bg_color=FAF7F2&title_color=2B2620&text_color=2B2620" alt="WakaTime Weekly Stats" width="60%" />
+
 </div>
 
 <br />
@@ -418,6 +474,40 @@ A modern cricket scoring application developed using **C++** and the STL.
 
 <br />
 
+<!--
+  TESTIMONIAL — swap this placeholder for a real one- or two-line
+  quote from a professor, hackathon judge, or client once you
+  have one on record. Keep it short; one strong line beats three
+  vague ones.
+-->
+<div align="center">
+
+<table><tr><td width="700">
+
+<div align="center">
+
+<sub>&#8220;</sub>
+
+*A first-year student who already ships production software and runs three live ventures — that's a rare combination of curiosity and follow-through.*
+
+<sub>&#8221;</sub>
+
+**— placeholder, swap for a real quote**
+
+</div>
+
+</td></tr></table>
+
+</div>
+
+<br />
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/tanushmishra/tanushmishra/main/assets/divider.svg" width="60%" alt="" />
+</div>
+
+<br />
+
 <div align="center">
 
 ## Connect With Me
@@ -431,6 +521,13 @@ A modern cricket scoring application developed using **C++** and the STL.
 <a href="mailto:tanushmishra.t@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-tanushmishra.t%40gmail.com-FAF7F2?style=for-the-badge&logo=gmail&logoColor=FAF7F2&labelColor=2B2620&color=8C7B6B" />
 </a>
+<!--
+  RESUME — replace resume.pdf with the actual path once uploaded
+  to this repo (e.g. assets/resume.pdf) or a hosted URL.
+-->
+<a href="https://raw.githubusercontent.com/tanushmishra/tanushmishra/main/assets/resume.pdf">
+<img src="https://img.shields.io/badge/RESUME-DOWNLOAD%20PDF-FAF7F2?style=for-the-badge&logo=readdotcv&logoColor=FAF7F2&labelColor=2B2620&color=8C7B6B" />
+</a>
 
 <br /><br />
 
@@ -442,6 +539,22 @@ A modern cricket scoring application developed using **C++** and the STL.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/tanushmishra/tanushmishra/main/assets/divider.svg" width="60%" alt="" />
+</div>
+
+<br />
+
+<div align="center">
+
+<details>
+<summary><sub>you scrolled this far — nice</sub></summary>
+<br />
+
+If you're reading this, you probably read READMEs the way I read changelogs: all the way to the bottom.
+
+Say hi — <a href="mailto:tanushmishra.t@gmail.com">tanushmishra.t@gmail.com</a>. Bonus points if you mention this line.
+
+</details>
+
 </div>
 
 <br />
