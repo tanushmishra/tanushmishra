@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24" fill="none">
+  <line
+    x1="120"
+    y1="12"
+    x2="780"
+    y2="12"
+    stroke="#DDD0BC"
+    stroke-width="1"
+  />
+
+  <polygon
+    points="450,7.5 454.5,12 450,16.5 445.5,12"
+    fill="#8C7B6B"
+  />
+</svg>
