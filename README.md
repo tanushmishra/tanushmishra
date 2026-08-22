@@ -436,7 +436,7 @@ Digital solutions marketplace — websites, AI chatbots, and automation systems.
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com/?user=tanushmishra&hide_border=true&background=FAF7F2&stroke=2B2620&ring=8C7B6B&fire=A99985&currStreakLabel=2B2620&sideLabels=2B2620&dates=8C7B6B&currStreakNum=2B2620&sideNums=2B2620" alt="Contribution Streak" width="60%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=tanushmishra&hide_border=true&background=FAF7F2&stroke=2B2620&ring=8C7B6B&fire=A99985&currStreakLabel=2B2620&sideLabels=2B2620&dates=8C7B6B&currStreakNum=2B2620&sideNums=2B2620" alt="Contribution Streak" width="60%" />
 
 <br /><br />
 
