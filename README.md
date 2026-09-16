@@ -450,9 +450,6 @@ Digital solutions marketplace — websites, AI chatbots, and automation systems.
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanushmishra&bg_color=FAF7F2&color=2B2620&line=8C7B6B&point=A99985&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="90%" />
-<br /><br />
-
 <!--
   WAKATIME — weekly coding-hours breakdown by language.
   Requires: a WakaTime account (wakatime.com) with the editor
